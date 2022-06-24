@@ -1,6 +1,6 @@
-// part of 'api_bloc.dart';
+part of 'api_bloc.dart';
 
-// @immutable
-// abstract class ApiState {}
+@immutable
+abstract class ApiState {}
 
-// class ApiInitial extends ApiState {}
+class ApiInitial extends ApiState {}

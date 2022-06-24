@@ -1,4 +1,4 @@
-// part of 'api_bloc.dart';
+part of 'api_bloc.dart';
 
-// @immutable
-// abstract class ApiEvent {}
+@immutable
+abstract class ApiEvent {}
